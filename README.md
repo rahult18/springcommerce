@@ -1,4 +1,4 @@
-# SpringCommerce - Spring Boot Microservices Project
+# Spring Commerce: Building a Resilient E-commerce System with Spring Boot Microservices
 
 This repository contains code for a microservices-based e-commerce application developed using Spring Boot. This project demonstrates how to build, test, and deploy microservices using Spring Cloud and Docker.
 
@@ -10,7 +10,7 @@ The application is composed of multiple microservices:
 - **Order Service**: Handles customer orders (MySQL)
 - **Inventory Service**: Tracks product inventory (MySQL)
 
-![Architecture Overview](https://raw.githubusercontent.com/rahult18/spring-boot-microservices/main/Project%20Architecutre%20Diagram.png)
+![Architecture Overview](https://raw.githubusercontent.com/rahult18/springcommerce/main/project_architecutre.png)
 
 ## Tech Stack
 
